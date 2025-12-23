@@ -1,0 +1,4 @@
+"""Checkups app initialization."""
+
+
+
